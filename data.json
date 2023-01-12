@@ -1,0 +1,29 @@
+{
+  "name": "@vgjohn",
+  "avatar": "https://pbs.twimg.com/profile_images/1280648087070015491/KmEHKEyT_400x400.jpg",
+  "links": [
+    {
+      "title": "My Personal Site",
+      "href": "https://twitter.com/GMJohnnyBoy",
+      "image": "https://pbs.twimg.com/profile_images/1280648087070015491/KmEHKEyT_400x400.jpg"
+    },
+    {
+      "title": "Vercel",
+      "href": "https://vercel.com"
+    },
+    {
+      "title": "Next.js",
+      "href": "https://nextjs.org"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "href": "https://twitter.com/GMJohnnyBoy"
+    },
+    {
+      "title": "Github",
+      "href": "https://github.com/VGJohn"
+    }
+  ]
+}

@@ -96,7 +96,7 @@ interface Social {
 }
 
 export default async function HomePage() {
-  const data: Data | undefined = await get("linktree");
+  const data = await get<Data>("linktree");
 
   if (!data) {
     redirect("https://linktr.ee/selenagomez");
